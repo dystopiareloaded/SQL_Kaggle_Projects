@@ -1,7 +1,7 @@
 
 # 🛍️ Target E-commerce Data Analysis using SQL
 
-![](https://storage.googleapis.com/kaggle-datasets-images/5064314/8488918/7e267181535fbf94f8b029d4d232dff6/dataset-cover.png?t=2024-05-22-17-21-09)
+![](logo.png)
 
 ## 📦 Dataset
 
