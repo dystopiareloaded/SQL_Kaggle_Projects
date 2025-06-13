@@ -1,11 +1,11 @@
-# Netflix Movies and TV Shows Data Analysis using SQL
+# 🎬 Netflix Movies and TV Shows Data Analysis using SQL
 
 ![](logo.png)
 
-## Overview
+## 📊 Overview
 This project involves an extensive analysis of Netflix's movies and TV shows dataset using SQL. The analysis covers 50 queries ranging from beginner to advanced levels, extracting valuable insights about content distribution, ratings, genres, directors, and more.
 
-## Objectives
+## 📊 Objectives
 
 - Explore the complete Netflix content dataset
 - Analyze content distribution between movies and TV shows
@@ -14,11 +14,11 @@ This project involves an extensive analysis of Netflix's movies and TV shows dat
 - Identify top directors, actors, and production countries
 - Perform advanced analytics using window functions and complex queries
 
-## Dataset
+## 📦 Dataset
 The data for this project is sourced from the Kaggle dataset:
 - **Dataset Link:** [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
-## Schema
+## 🧱 SQL Schema Assumption
 ```sql
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
@@ -38,7 +38,7 @@ CREATE TABLE netflix
 );
 ```
 
-## SQL Queries and Analysis
+## 🧾 SQL Questions with Solutions
 
 ### Beginner Level Queries (1-15)
 
@@ -463,6 +463,8 @@ ORDER BY year_added;
 ```
 🎯 Objective: Analyze Netflix's acquisition strategy over time.
 
+---
+
 ### Key Findings
 - **Content Distribution:** Movies significantly outnumber TV shows in Netflix's library.
 - **Production Trends:** The United States dominates content production, followed by India.
@@ -470,6 +472,8 @@ ORDER BY year_added;
 - **Genre Popularity:** International content and dramas are the most common categories.
 - **Temporal Analysis:** Content additions have grown exponentially in recent years.
 - **Creative Talent:** A small group of directors account for a large portion of content.
+
+---
 
 ### Conclusion
 This comprehensive SQL analysis provides valuable insights into Netflix's content strategy, revealing:
@@ -480,13 +484,11 @@ This comprehensive SQL analysis provides valuable insights into Netflix's conten
 
 The 50 queries demonstrate a wide range of SQL techniques from basic filtering to advanced analytical functions, showcasing the power of SQL for business intelligence and data analysis in the entertainment industry.
 
+---
+
 ## 👨‍💻 Author
 
 **Kaustav Roy Chowdhury**  
 📧 Data Analyst | SQL Enthusiast | Python | Streamlit  
-This project demonstrates my expertise in SQL data analysis. Connect with me:  
-- **LinkedIn:** Kaustav Roy Chowdhury  
-
-For more data projects and insights, follow me on GitHub and LinkedIn. Feedback and collaboration opportunities are welcome!
-
-✍️ “In God we trust. All others must bring data.”    
+✍️ *"When SQL speaks, everything else becomes a footnote."*    
+    
