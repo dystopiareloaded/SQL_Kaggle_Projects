@@ -45,8 +45,6 @@ The project assumes the following tables exist in the `ecommerce` database:
 
 ---
 
-## 🧾 SQL Questions with Solutions
-
 
 ## 🧾 SQL Questions with Solutions
 
